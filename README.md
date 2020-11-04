@@ -2,7 +2,7 @@
 
 <!--
 **bwmsdroid/bwmsdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on hackerone, as a pentester
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love cats and dogs
 - 🇧🇷 Brazilian
 - 🎉 16 years old
--->
+
