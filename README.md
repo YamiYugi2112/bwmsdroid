@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 Reach me by discord: GatoLouco#3684 
 - ⚡ Fun fact: I love cats and dogs
 - 🇧🇷 Brazilian
-- 🎉 16 years old
+- 🎉 17 years old
 
