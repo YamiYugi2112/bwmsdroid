@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on small projects (c++, website, python)
 - 🤔 I’m looking for help with reverse engeering, assembly and IA
 - 💬 Ask me about reverse engeering, assembly, sockets, python, html, js, sql, cyber security, etc.
-- 📫 Reach me by discord: GatoLouco#3684 
 - ⚡ Fun fact: I love cats and dogs
 - 🇧🇷 Brazilian
 - 🎉 17 years old
